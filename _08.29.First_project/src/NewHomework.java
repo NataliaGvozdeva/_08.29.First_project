@@ -5,6 +5,7 @@ public class NewHomework {
             //Задача №1
             int a = 10;
             int b = 3;
+            int d = 3;
 
             System.out.println(String.format("a = %d", a));
             System.out.println(String.format("b = %d", b));
